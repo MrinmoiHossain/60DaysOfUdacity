@@ -26,6 +26,14 @@ This [github](https://github.com/) repository contains the course material relat
 ### Lesson - 04 : Evaluating the Privacy of a Function
 ### Lesson - 05 : Introducing Local and Global Differentail Privacy
 ### Lesson - 06 : Differentail Privacy for Deep Learning
+* **Part 1:** Differentail Privacy for Deep Learning
+* **Part 2:** Example Scenario of Deep Learning in a Hospital
+* **Part 3:** Generating Differentailly Private Labels for a Dataset
+* **Part 4:** PATE Analysis
+* **Part 5:** Where to Go From Here
+* **Part 6:** Final Project
+* **Part 7:** Guest Interview
+
 ### Lesson - 07 : Federated Learning
 ### Lesson - 08 : Securing Federated Learning
 ### Lesson - 09 : Encrypted Deep Learning
