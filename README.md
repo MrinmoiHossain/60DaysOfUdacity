@@ -11,6 +11,8 @@ This [github](https://github.com/) repository contains the course material relat
 
 # Core Curriculum
 ### Lesson - 01 : Welcome to the Scholarship Challenge
+
+### Lesson - 02 : Deep Learning with PyTorch
 * **Part 1:** Introduction to PyTorch and using tensors
 * **Part 2:** Building fully-connected neural networks with PyTorch
 * **Part 3:** How to train a fully-connected network with backpropagation on MNIST
@@ -21,7 +23,6 @@ This [github](https://github.com/) repository contains the course material relat
 * **Part 8:** How to accelerate network computations using a GPU
 * **Part 9:** Use transfer learning to train a state-of-the-art image classifier for dogs and cats
 
-### Lesson - 02 : Deep Learning with PyTorch
 ### Lesson - 03 : Introducing Differential Privacy
 ### Lesson - 04 : Evaluating the Privacy of a Function
 ### Lesson - 05 : Introducing Local and Global Differentail Privacy
