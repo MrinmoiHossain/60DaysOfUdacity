@@ -35,6 +35,13 @@ This [github](https://github.com/) repository contains the course material relat
 * **Part 7:** Guest Interview
 
 ### Lesson - 07 : Federated Learning
+* **Part 1:** Introduction of Federated Learning
+* **Part 2:** Introduction & Installing PySyft and Introduction OpendMined
+* **Part 3:** Basic Remote Execution in PySyft
+* **Part 4:** Playing with Remote Tensors
+* **Part 5:** Introducing Remote Arithmetic in PySyft
+* **Part 6:** 
+
 ### Lesson - 08 : Securing Federated Learning
 ### Lesson - 09 : Encrypted Deep Learning
 ### Lesson - 10 : Challenge Course Wrap Up
