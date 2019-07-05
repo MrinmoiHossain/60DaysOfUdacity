@@ -2,7 +2,7 @@
 
 # Secure and Private AI Scholarship Challenge Nanodegree Program
 
-This [github](https://github.com/) repository contains the course material related to Udacity's [Secure and Private AI Scholarship Challenge Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd185/).
+This [GitHub](https://github.com/) repository contains the course material related to Udacity's [Secure and Private AI Scholarship Challenge Nanodegree Program](https://classroom.udacity.com/nanodegrees/nd185/).
 
 | Program Start | Challenge Start | Challenge End  |   Program End   |
 | ------------- | --------------- | -------------- | --------------- |
@@ -41,7 +41,13 @@ This [github](https://github.com/) repository contains the course material relat
 * **Part 3:** Basic Remote Execution in PySyft
 * **Part 4:** Playing with Remote Tensors
 * **Part 5:** Introducing Remote Arithmetic in PySyft
-* **Part 6:** 
+* **Part 6:** Simple Linear Model
+* **Part 7:** Garbage Collection and Common Errors
+* **Part 8:** Toy Model in Federated Learning
+* **Part 9:** Advanced Remote Execution Tools
+* **Part 10:** Pointer Chain Operations
+* **Part 11:** Final Project Description
+* **Part 12:** Guest Interview
 
 ### Lesson - 08 : Securing Federated Learning
 ### Lesson - 09 : Encrypted Deep Learning
