@@ -82,5 +82,6 @@ pip install opencv-python jupyter matplotlib pandas numpy pillow scipy tqdm scik
 4. Install PySyft packages
 ```
 conda create -n pysyft python=3
+conda activate pysyft
 pip install syft
 ```
